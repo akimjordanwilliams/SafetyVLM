@@ -1,0 +1,10 @@
+video.mp4
+*.pt
+*.mp4
+*.avi
+*.mov
+*.mkv
+__pycache__/
+.venv/
+*.log
+*.csv
