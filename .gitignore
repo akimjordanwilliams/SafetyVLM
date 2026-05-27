@@ -1,6 +1,7 @@
 video.mp4
 *.pt
 *.mp4
+!video_first_1min_yolo_h264.mp4
 *.avi
 *.mov
 *.mkv
